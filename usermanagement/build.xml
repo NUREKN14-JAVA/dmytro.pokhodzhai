@@ -26,7 +26,7 @@
 				<pathelement location="${build-dir}"/>
 			</classpath>
 			<formatter type="plain"/>
-			<test name="kn.dmytro.pokhodzhai.usermanagement.UserTest"></test>
+			<test name="com.dmytro.pokhodzhai.usermanagement.UserTest"></test>
 		</junit>
 	</target>
 	
